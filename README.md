@@ -1,5 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Lenilson+Campos;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 👋, I'm Lenilson Campos</h1>
-<h4 align="center">Welcome to my profile. My name is Lenilson Campos, curious by nature. A balance between logic, reason, facts and the clarity that despite all this, we know nothing. For me it's real fun to look at seemingly disordered data, to imagine the story there waiting to be discovered. Dive into your content to mine riches. Data Science is simply magical! Analyze behaviors, recognize patterns and, in a way, predict the future. You can't help but fall in love with something with such incredible potential, not only to make companies and businesses even more profitable, efficient and sustainable, but also to help through the information generated. I love being able to learn and share what I know, I hope one day to be part of the group of people who will truly make this world better through technology.azil</h4>
+<h4 align="center">Welcome to my profile. My name is Lenilson Campos, curious by nature. A balance between logic, reason, facts and the clarity that despite all this, we know nothing. For me it's real fun to look at seemingly disordered data, to imagine the story there waiting to be discovered. Dive into your content to mine riches. Data Science is simply magical! Analyze behaviors, recognize patterns and, in a way, predict the future. You can't help but fall in love with something with such incredible potential, not only to make companies and businesses even more profitable, efficient and sustainable, but also to help through the information generated. I love being able to learn and share what I know, I hope one day to be part of the group of people who will truly make this world better through technology.</h4>
 <br>
 <h4 align="center">Bem vindo ao meu Perfil.
     Me chamo Lenilson Campos, um curioso por natureza. Um equilíbio entre lógica, razão, fatos e a clareza de que apesar de tudo isso, nada sabemos.
@@ -7,7 +12,7 @@
     A Ciência de Dados é simplesmente mágica! Analisar comportamentos, reconhecer padrões e de certa forma, prever o futuro.    Não tem como não se apaixonar por algo com um potencial tão incrível,  não só de tornar empresas e negócios ainda mais lucrativos, eficientes e sustentáveis, mas também de ajudar através da informação gerada.
     Amo poder aprender e compartilhar o que sei,  espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor de verdade através da tecnologia.</h4>
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning **FrontEnd and Data Analytics **
 
 - 💬 Ask me about **SQL, Power BI, Excel e Python**
 
