@@ -39,6 +39,20 @@
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenilsoncampos&layout=compact&langs_count=7&theme=tokyonight"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lenilsoncampos&theme=ambient-gradient)](https://git.io/streak-stats)
+
+##
+  <a href="https://github.com/Jurredr/github-widgetbox">
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=lenilsoncampos&data=followers,repositories,stars,commits&theme=defult" alt="GitHub WirdgetBox" />     
+  </a>
+
+
+<div>
+    
+<img align="center" alt="GitHub Details" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenilsoncampos&theme=github_dark"/>
+<img align="right" alt="GitHub Top Langs" width="235px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lenilsoncampos&theme=github_dark"/>
+<img align="left" alt="GitHub Stats" width="235px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenilsoncampos&theme=github_dark"/>
+ </div>
+  
 <div>
 
 
@@ -47,6 +61,7 @@
 
 
 <div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
+
 
 <br>
 
