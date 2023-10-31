@@ -46,13 +46,11 @@
   </a>
 
 
-<div>
-    
-<img align="center" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenilsoncampos&theme=github_dark"/>
+<div>   
+<img align="center" alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenilsoncampos&theme=github_dark"/>
 <img align="right" alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lenilsoncampos&theme=github_dark"/>
 <img align="left" alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenilsoncampos&theme=github_dark"/>
- 
- </div>
+</div>
   
 <div>
 
