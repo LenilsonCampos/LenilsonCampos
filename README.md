@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Lenilson+Campos;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
@@ -20,6 +20,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/lenilsongeovane](www.linkedin.com/in/lenilsongeovane)
 <br><br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lenilsongeovane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenilsongeovane" height="30" width="40" /></a>
@@ -37,8 +38,6 @@
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=lenilsoncampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenilsoncampos&layout=compact&langs_count=7&theme=tokyonight"/>
 
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=lenilsoncampos&theme=ambient-gradient)](https://git.io/streak-stats)
 <div>
 
@@ -52,16 +51,13 @@
 <br>
 
 
-
-
-
-
-
-
----
 <br>
 <br>
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lenilson-Campos}/count.svg" /></p> 
 <br></div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=footer"/>
+
