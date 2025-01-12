@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **FrontEnd and Data Analytics**
 
-- 💬 Ask me about **SQL, Power BI, Excel e Python**
+- 💬 Ask me about **HTML, CSS, FrontEnd, Power BI**
 
 - 📫 How to reach me **lenilson.geovane@gmail.com**
 
