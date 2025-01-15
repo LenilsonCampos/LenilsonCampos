@@ -4,17 +4,19 @@
 
 
 <h1 align="center"></h1>
-<h4 align="center">Welcome to my profile. My name is Lenilson Campos, curious by nature. A balance between logic, reason, facts and the clarity that despite all this, we know nothing. For me it's real fun to look at seemingly disordered data, to imagine the story there waiting to be discovered. Dive into your content to mine riches. Data Science is simply magical! Analyze behaviors, recognize patterns and, in a way, predict the future. You can't help but fall in love with something with such incredible potential, not only to make companies and businesses even more profitable, efficient and sustainable, but also to help through the information generated. I love being able to learn and share what I know, I hope one day to be part of the group of people who will truly make this world better through technology.</h4>
+<h4 align="center">Welcome to my profile.
+    My name is Lenilson Campos, I am curious by nature and constantly learning.
+Frontend Development is simply magical! Creating something from scratch, customizing it, styling it the way it should be, and the goal is to ensure that the interface is intuitive, fast and attractive. It is impossible not to fall in love with something with such incredible potential.
+I love being able to learn and share what I know. I hope one day to be part of the group of people who truly make this world a better place through technology.</h4>
 <br>
 <h4 align="center">Bem vindo ao meu Perfil.
-    Me chamo Lenilson Campos, um curioso por natureza. Um equilíbio entre lógica, razão, fatos e a clareza de que apesar de tudo isso, nada sabemos.
-    Para mim é uma verdadeira diversão olhar para dados aparentemente desordenados, imaginar a história ali esperando para ser descoberta.    Mergulhar em seu conteúdo para minerar riquezas. 
-    A Ciência de Dados é simplesmente mágica! Analisar comportamentos, reconhecer padrões e de certa forma, prever o futuro.    Não tem como não se apaixonar por algo com um potencial tão incrível,  não só de tornar empresas e negócios ainda mais lucrativos, eficientes e sustentáveis, mas também de ajudar através da informação gerada.
-    Amo poder aprender e compartilhar o que sei,  espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor de verdade através da tecnologia.</h4>
+    Meu nome é Lenilson Campos, um curioso por natureza e em constante aprendizado.
+    O Desenvolvimento FrontEnd é simplesmente mágico! Criar algo do zero, personalizar, estilizar do jeito que deve ser e objetivo é garantir que a interface seja intuitiva, rápida e atraente, não tem como não se apaixonar por algo com um potencial tão incrível.
+    Amo poder aprender e compartilhar o que sei,  espero um dia fazer parte do grupo das pessoas que fazem esse mundo melhor de verdade através da tecnologia.</h4>
 
-- 🌱 I’m currently learning **FrontEnd and Data Analytics**
+- 🌱 I’m currently learning **FrontEnd React**
 
-- 💬 Ask me about **HTML, CSS, FrontEnd, Power BI**
+- 💬 Ask me about **HTML, CSS, FrontEnd**
 
 - 📫 How to reach me **lenilson.geovane@gmail.com**
 
