@@ -4,7 +4,7 @@
 
 
 <h1 align="center"></h1>
-<h4 align="center">Welcome to my profile.
+<h4 align="center">Welcome to my profile. 
     My name is Lenilson Campos, I am curious by nature and constantly learning.
 Frontend Development is simply magical! Creating something from scratch, customizing it, styling it the way it should be, and the goal is to ensure that the interface is intuitive, fast and attractive. It is impossible not to fall in love with something with such incredible potential.
 I love being able to learn and share what I know. I hope one day to be part of the group of people who truly make this world a better place through technology.</h4>
